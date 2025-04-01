@@ -1,0 +1,80 @@
+Number of threads: 1
+Array size: 50000
+Total computation time: 67 ms
+Thread performance:
+Thread ID, Start Index, End Index, Duration (ms)
+Number of threads: 2
+Array size: 50000
+Total computation time: 53 ms
+Thread performance:
+Thread ID, Start Index, End Index, Duration (ms)
+Number of threads: 3
+Array size: 50000
+Total computation time: 54 ms
+Thread performance:
+Thread ID, Start Index, End Index, Duration (ms)
+Number of threads: 4
+Array size: 50000
+Total computation time: 53 ms
+Thread performance:
+Thread ID, Start Index, End Index, Duration (ms)
+Number of threads: 5
+Array size: 50000
+Total computation time: 43 ms
+Thread performance:
+Thread ID, Start Index, End Index, Duration (ms)
+Number of threads: 6
+Array size: 50000
+Total computation time: 38 ms
+Thread performance:
+Thread ID, Start Index, End Index, Duration (ms)
+Number of threads: 7
+Array size: 50000
+Total computation time: 35 ms
+Thread performance:
+Thread ID, Start Index, End Index, Duration (ms)
+Number of threads: 8
+Array size: 50000
+Total computation time: 47 ms
+Thread performance:
+Thread ID, Start Index, End Index, Duration (ms)
+Number of threads: 9
+Array size: 50000
+Total computation time: 64 ms
+Thread performance:
+Thread ID, Start Index, End Index, Duration (ms)
+Number of threads: 10
+Array size: 50000
+Total computation time: 124 ms
+Thread performance:
+Thread ID, Start Index, End Index, Duration (ms)
+Number of threads: 11
+Array size: 50000
+Total computation time: 212 ms
+Thread performance:
+Thread ID, Start Index, End Index, Duration (ms)
+Number of threads: 12
+Array size: 50000
+Total computation time: 240 ms
+Thread performance:
+Thread ID, Start Index, End Index, Duration (ms)
+Number of threads: 13
+Array size: 50000
+Total computation time: 617 ms
+Thread performance:
+Thread ID, Start Index, End Index, Duration (ms)
+Number of threads: 14
+Array size: 50000
+Total computation time: 936 ms
+Thread performance:
+Thread ID, Start Index, End Index, Duration (ms)
+Number of threads: 15
+Array size: 50000
+Total computation time: 982 ms
+Thread performance:
+Thread ID, Start Index, End Index, Duration (ms)
+Number of threads: 16
+Array size: 50000
+Total computation time: 1591 ms
+Thread performance:
+Thread ID, Start Index, End Index, Duration (ms)

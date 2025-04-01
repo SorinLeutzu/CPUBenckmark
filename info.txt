@@ -1,0 +1,5 @@
+Number of threads: 16
+Array size: 50000
+Total computation time: 1591 ms
+Thread performance:
+Thread ID, Start Index, End Index, Duration (ms)

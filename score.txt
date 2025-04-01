@@ -1,0 +1,2 @@
+Total computation time for 1 thread: 67 ms
+Total computation time for the maximum number of threads (16 threads): 1591 ms
